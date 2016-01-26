@@ -1,6 +1,6 @@
 server:
-    dev: "mgmt-rev2.team.healthstream.com"
-    qa: "10.11.8.120/STS"
+    dev: "dev.server.com"
+    qa: "qa.server.com"
     prod: ""
 token_url: "/STS/connect/accesstokenvalidation"
 token_validation_url: "/STS/connect/accesstokenvalidation"
